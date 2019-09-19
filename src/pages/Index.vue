@@ -8,7 +8,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto mb-16">
-      <p class="text-lg sm:text-xl"></p>
+      <p class="text-lg sm:text-xl">Hi there! I'm Jacob and I like to create web related things. No really, <strong>I love creating stuff for the web</strong>. I am a frontend developer currently working for the fine folks at <a href="https://rockitscienceagency.com">Rockit Science Agency</a>. I build and design modern websites that are highly functional for todays fast paced world. I occasionally design a logo here and there as well. When I'm not doing these things, I'm usually hanging out with my family <strike>enjoying</strike> this lovely humid Louisiana weather. Below are some projects I've done. If you like what you see and want to know what else I'm capable of, shoot me an <a href="mailto:jacob@jacobpaulcarpenter.com">email</a> and I'd be happy to do just that.</p>
     </div>
 
     <div class="overflow-x-hidden">
@@ -21,22 +21,13 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Precision Weld Testing &amp Training</div>
+            <div class="text-lg text-gray-600">Website designed and developed for a local industrial education facility. Site built on Craft CMS and UIkit 3. <a href="https://precisionwtt.com" target="_blank">View the Website</a></div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Hidden Beauty Salon</div>
+            <div class="text-lg text-gray-600">Website designed and developed for a local hair salon which alows clients to book appointments online as well as view pricing. Site built on Craft CMS and UIkit 3. Logo and branding done by Jacob Carpenter as well. <a href="https://hiddenbeautyla.com" target="_blank">View the Website</a></div>
           </li>
-          <li class="checkmark mb-6">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
-          </li>
-          <li class="checkmark mb-6">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
-          </li>
-
         </ul>
       </div> <!-- end projects -->
     </div>
@@ -49,7 +40,7 @@
             <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
-          <p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>
+          <p class="mb-12">Looking to launch a new product or business? Need a website built to reflect your business model and inform your customers? Lets build something great together. Contact me below and we'll get this thing rolling.</p>
 
           <div class="text-lg sm:text-lg mb-16">
             <form action="#" class="mb-12">
