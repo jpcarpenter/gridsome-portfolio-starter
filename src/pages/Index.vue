@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="font-bold w-full sm:w-3/5 text-center mx-auto">
         <div class="text-4xl leading-tight">Jacob Carpenter</div>
-        <div class="text-3xl text-green-700 leading-tight">Front End Developer specializing in Vue.js, Tailwind  &amp; Craft CMS</div>
+        <div class="text-3xl text-green-700 leading-tight">Front End Developer specializing in Vue.js, Tailwind &amp; Craft CMS</div>
       </div>
     </div> <!-- end hero -->
 
@@ -40,10 +40,10 @@
             <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
-          <p class="mb-12">Looking to launch a new product or business? Need a website built to reflect your business model and inform your customers? Lets build something great together. Contact me below and we'll get this thing rolling.</p>
+          <p class="mb-12">Looking to launch a new product or business? Need a website built to reflect your business model and inform your customers on what's coming? Lets build something great together. Contact me below and we'll get this thing rolling.</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <form name="contact" netlify method="POST" class="mb-12">
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
