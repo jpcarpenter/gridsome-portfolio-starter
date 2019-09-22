@@ -8,7 +8,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto mb-16">
-      <p class="text-lg sm:text-xl">Hi there! I'm Jacob and I like to create web related things. No really, <strong>I love creating stuff for the web</strong>. I am a frontend developer currently working for the fine folks at <a href="https://rockitscienceagency.com">Rockit Science Agency</a>. I build and design modern websites that are highly functional for todays fast paced world. I occasionally design a logo here and there as well. When I'm not doing these things, I'm usually hanging out with my family enjoying this lovely humid Louisiana weather. Below are some projects I've done. If you like what you see or want to know what else I'm capable of, shoot me an <a href="mailto:jacob@jacobpaulcarpenter.com">email</a>.</p>
+      <p class="text-lg sm:text-xl">Hi there! I'm Jacob and I like to create web related things. No really, <strong>I love creating stuff for the web</strong>. I am a front end developer currently working for the fine folks at <a target="_blank" href="https://rockitscienceagency.com">Rockit Science Agency</a>. I build and design interactive websites that are highly functional for todays digital age. I occasionally design a logo here and there as well. When I'm not doing these things, I'm usually hanging out with my family enjoying this lovely humid Louisiana weather. Below are some projects I've done. If you like what you see or want to know what else I'm capable of, shoot me an <a href="mailto:jacob@jacobpaulcarpenter.com">email</a> and I'd be happy to do so.</p>
     </div>
 
     <div class="overflow-x-hidden">
