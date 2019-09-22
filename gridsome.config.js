@@ -14,9 +14,9 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1.0',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteName: 'Jacob Carpenter | Front End Developer',
+  siteDescription: 'Front End Developer specializing in Craft CMS, Vue.js & Tailwind CSS',
+  siteUrl: 'https://jacobpaulcarpenter.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
