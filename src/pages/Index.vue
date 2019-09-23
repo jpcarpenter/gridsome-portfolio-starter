@@ -1,14 +1,22 @@
 <template>
   <Layout>
+
+
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between pt-0 pb-8 md:py-8">
       <div class="font-bold w-full sm:w-3/5 text-center mx-auto">
+        <!-- <div class="flex flex-col sm:flex-row justify-center items-center mb-6">
+          <div>
+              <g-image src="../../static/avatar.jpg" alt="avatar" class="w-32 h-32 rounded-full" />
+          </div>
+        </div> -->
         <h1 class="text-4xl leading-tight">Jacob Carpenter</h1>
         <h2 class="text-3xl text-green-700 leading-tight">Front End Developer specializing in Craft CMS,  Vue.js &amp; Tailwind.</h2>
       </div>
     </div> <!-- end hero -->
 
-    <div class="container-inner mx-auto mb-16">
-      <p class="text-lg sm:text-xl">Hi there! I'm Jacob and I like to create web related things. No really, <strong>I love creating stuff for the web</strong>. I am a front end developer currently working for the fine folks at <a target="_blank" href="https://rockitscienceagency.com">Rockit Science Agency</a>. I build and design interactive websites that are highly functional for todays digital age. I occasionally design a logo here and there as well. When I'm not doing these things, I'm usually hanging out with my family enjoying this lovely humid Louisiana weather. Below are some projects I've done. If you like what you see or want to know what else I'm capable of, shoot me an <a href="mailto:jacob@jacobpaulcarpenter.com">email</a> and I'd be happy to do so.</p>
+    <div class="container-inner mx-auto mb-16 text-center">
+      <p class="text-lg sm:text-xl mb-12">Hi there! I am a front end developer in Baton Rouge, Louisiana currently working for the fine folks at <a target="_blank" href="https://rockitscienceagency.com">Rockit Science Agency</a>. I build and design modern websites that are highly functional for todays digital age.</p>
+       <a href="mailto:jacob@jacobpaulcarpenter.com" class="bg-green-700 hover:bg-green-800 py-3 px-4 text-white rounded hover:text-white">Contact me</a>
     </div>
 
     <div class="overflow-x-hidden">
