@@ -29,6 +29,10 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
+            <div>Cypress Roofing</div>
+            <div class="text-lg text-gray-600">Website designed and developed for a local roofing company. Built with Gridsome, Tailwind CSS and GSAP for animations. <a href="https://cypressroofingla.com" target="_blank">View the Website</a></div>
+          </li>
+          <li class="checkmark mb-6">
             <div>Precision Weld Testing &amp Training</div>
             <div class="text-lg text-gray-600">Website designed and developed for a local industrial education facility. Site built on Craft CMS and UIkit 3. <a href="https://precisionwtt.com" target="_blank">View the Website</a></div>
           </li>
